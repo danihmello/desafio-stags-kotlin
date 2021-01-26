@@ -16,5 +16,4 @@ class TelaPrincipal : JFrame() {
         title = "Chess"
         isVisible = true
     }
-
 }
